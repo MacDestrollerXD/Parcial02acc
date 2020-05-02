@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="UNICAES2011ML604" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\JC\ Macal\\Desktop\\Universidad\\Clases\\2020\\Ciclo\ I\ -\ 2020\\Administración\ de\ Centros\ de\ Computo\\unicaes2011ml604\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
